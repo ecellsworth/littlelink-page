@@ -1,0 +1,73 @@
+# Format: brand|URL|Display Label
+# Lines starting with # are ignored
+# Order in this file = order of buttons on the page
+# Brand names should match LittleLink’s icon/class names
+# Delete or comment out any you don’t need. Re-run the script after editing.
+
+# Social / Content
+github|https://github.com/YOUR_USERNAME|GitHub
+x|https://x.com/YOUR_USERNAME|X
+instagram|https://instagram.com/YOUR_USERNAME|Instagram
+youtube|https://youtube.com/@YOUR_CHANNEL|YouTube
+tiktok|https://tiktok.com/@YOUR_USERNAME|TikTok
+threads|https://threads.net/@YOUR_USERNAME|Threads
+bluesky|https://bsky.app/profile/YOUR_HANDLE|Bluesky
+mastodon|https://mastodon.social/@YOUR_USERNAME|Mastodon
+reddit|https://reddit.com/user/YOUR_USERNAME|Reddit
+linkedin|https://linkedin.com/in/YOUR_USERNAME|LinkedIn
+facebook|https://facebook.com/YOUR_USERNAME|Facebook
+snapchat|https://snapchat.com/add/YOUR_USERNAME|Snapchat
+pinterest|https://pinterest.com/YOUR_USERNAME|Pinterest
+tumblr|https://YOUR_USERNAME.tumblr.com|Tumblr
+discord|https://discord.gg/YOUR_INVITE|Discord
+twitch|https://twitch.tv/YOUR_USERNAME|Twitch
+kick|https://kick.com/YOUR_USERNAME|Kick
+
+# Messaging
+telegram|https://t.me/YOUR_USERNAME|Telegram
+whatsapp|https://wa.me/YOUR_PHONE|WhatsApp
+signal|https://signal.me/#p/YOUR_NUMBER|Signal
+messenger|https://m.me/YOUR_USERNAME|Messenger
+matrix|https://matrix.to/#/@YOUR_USERNAME:matrix.org|Matrix
+
+# Creative / Portfolio
+behance|https://behance.net/YOUR_USERNAME|Behance
+dribbble|https://dribbble.com/YOUR_USERNAME|Dribbble
+figma|https://figma.com/@YOUR_USERNAME|Figma
+deviantart|https://deviantart.com/YOUR_USERNAME|DeviantArt
+flickr|https://flickr.com/people/YOUR_USERNAME|Flickr
+unsplash|https://unsplash.com/@YOUR_USERNAME|Unsplash
+vsco|https://vsco.co/YOUR_USERNAME|VSCO
+medium|https://medium.com/@YOUR_USERNAME|Medium
+substack|https://YOUR_USERNAME.substack.com|Substack
+hashnode|https://hashnode.com/@YOUR_USERNAME|Hashnode
+dev-to|https://dev.to/YOUR_USERNAME|DEV
+product-hunt|https://producthunt.com/@YOUR_USERNAME|Product Hunt
+
+# Music / Audio
+spotify|https://open.spotify.com/user/YOUR_USERNAME|Spotify
+soundcloud|https://soundcloud.com/YOUR_USERNAME|SoundCloud
+apple-music|https://music.apple.com/profile/YOUR_USERNAME|Apple Music
+bandcamp|https://YOUR_USERNAME.bandcamp.com|Bandcamp
+last-fm|https://last.fm/user/YOUR_USERNAME|Last.fm
+yt-music|https://music.youtube.com/channel/YOUR_CHANNEL|YouTube Music
+discogs|https://discogs.com/user/YOUR_USERNAME|Discogs
+
+# Support / Money
+patreon|https://patreon.com/YOUR_USERNAME|Patreon
+ko-fi|https://ko-fi.com/YOUR_USERNAME|Ko-fi
+buymeacoffee|https://buymeacoffee.com/YOUR_USERNAME|Buy Me a Coffee
+paypal|https://paypal.me/YOUR_USERNAME|PayPal
+venmo|https://venmo.com/YOUR_USERNAME|Venmo
+cash-app|https://cash.app/$YOUR_USERNAME|Cash App
+gofundme|https://gofundme.com/f/YOUR_CAMPAIGN|GoFundMe
+
+# Other
+calendly|https://calendly.com/YOUR_USERNAME|Calendly
+notion|https://YOUR_USERNAME.notion.site|Notion
+steam|https://steamcommunity.com/id/YOUR_USERNAME|Steam
+letterboxd|https://letterboxd.com/YOUR_USERNAME|Letterboxd
+goodreads|https://goodreads.com/YOUR_USERNAME|Goodreads
+strava|https://strava.com/athletes/YOUR_USERNAME|Strava
+zoom|https://zoom.us/j/YOUR_MEETING|Zoom
+email|mailto:you@example.com|Email
